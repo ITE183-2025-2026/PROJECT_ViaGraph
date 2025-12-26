@@ -48,6 +48,20 @@ The system consists of:
 * A map visualization layer
 
 ---
+### System Flowchart
+
+<p align="center">
+  <img src="ViaGraph_Flowchart.png" alt="ViaGraph System Flowchart" width="800">
+</p>
+
+The process begins when the user logs in or creates an account and accesses the ViaGraph dashboard. Upon clicking the Route Finder button, the system displays an interactive map along with an input panel that allows the user to select an origin and destination.
+
+After the user selects the desired locations and initiates the search, the system validates the input to ensure that all required fields are correctly provided. If the inputs are invalid, an error message is displayed prompting the user to correct the selection. Once the inputs are validated, the system proceeds to access the transport route data stored in GeoJSON format.
+
+The system then matches the selected origin and destination to the corresponding route nodes and computes the least-cost route based on the cheapest available fare. Following route computation, the system calculates the total distance, estimates the travel time, computes the fare, and determines any necessary transfer points along the route.
+
+Finally, the computed route is displayed visually on the interactive map, and a route information panel is presented to the user showing relevant travel details such as estimated fare, travel time, and transfer stops. The process concludes once the route information has been successfully displayed.
+
 
 ## System Block Diagram
 
