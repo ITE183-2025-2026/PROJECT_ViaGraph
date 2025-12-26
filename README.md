@@ -1,4 +1,4 @@
-![ViaGraph Logo](images/ViaGraph_LOGO.png)
+![ViaGraph Logo](ViaGraph_LOGO.png)
 
 # PROJECT_ViaGraph
 
