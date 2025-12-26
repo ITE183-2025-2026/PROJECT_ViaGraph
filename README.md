@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ViaGraph_LOGO.jpg" alt="ViaGraph Logo" width="200">
+  <img src="ViaGraph_LOGO.png" alt="ViaGraph Logo" width="200">
 </p>
 
 # PROJECT_ViaGraph
@@ -51,7 +51,7 @@ The system consists of:
 ### System Flowchart
 
 <p align="center">
-  <img src="ViaGraph Flowchart.png" alt="ViaGraph System Flowchart" width="800">
+  <img src="ViaGraph Flowchart.jpg" alt="ViaGraph System Flowchart" width="800">
 </p>
 
 The process begins when the user logs in or creates an account and accesses the ViaGraph dashboard. Upon clicking the Route Finder button, the system displays an interactive map along with an input panel that allows the user to select an origin and destination.
