@@ -1,3 +1,5 @@
+![ViaGraph Logo](images/ViaGraph_LOGO.png)
+
 # PROJECT_ViaGraph
 
 ## Project Purpose
