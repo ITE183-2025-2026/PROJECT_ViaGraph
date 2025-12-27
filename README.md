@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="ViaGraph_LOGO.png" alt="ViaGraph Logo" width="200">
 </p>
 
