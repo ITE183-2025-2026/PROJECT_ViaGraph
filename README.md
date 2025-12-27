@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ViaGraph_LOGO.png" alt="ViaGraph Logo" width="200">
+  <img src="ViaGraph_LOGO.png" alt="ViaGraph Logo" width="300">
 </p>
 
 # PROJECT_ViaGraph
